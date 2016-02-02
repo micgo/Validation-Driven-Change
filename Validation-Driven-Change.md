@@ -37,6 +37,8 @@ And a tool of our oppressors
 
 ### Automation is a Test's best friend
 ![alt text](images/Agile-Testing-Quadrants.png)
+
+<small>Image by Lisa Crispin (http://lisacrispin.com/2011/11/08/using-the-agile-testing-quadrants/)</small>
 Note: Automation moves quickly, so you have to have a robot check changes. It's impossible to validate all of the integrations and complexities of software at the speed of git commit.
 
 
